@@ -1,5 +1,5 @@
 # IndividualProject
-This repository contains a database management website I have created using PHP, HTML, CSS and MySQL.
+This repository contains a database management website I created for my final year at university using PHP, HTML, CSS and MySQL.
 
 # Directory Walkthrough
 The rest of this document will contain a walkthrough of the files that make up my website.
